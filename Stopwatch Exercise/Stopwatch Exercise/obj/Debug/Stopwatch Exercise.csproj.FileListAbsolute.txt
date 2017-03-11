@@ -1,0 +1,9 @@
+c:\users\alexis\documents\visual studio 2015\Projects\Stopwatch Exercise\Stopwatch Exercise\bin\Debug\Stopwatch Exercise.exe.config
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\Stopwatch Exercise\Stopwatch Exercise\bin\Debug\Stopwatch Exercise.exe
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\Stopwatch Exercise\Stopwatch Exercise\bin\Debug\Stopwatch Exercise.pdb
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\Stopwatch Exercise\Stopwatch Exercise\obj\Debug\Stopwatch Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\Stopwatch Exercise\Stopwatch Exercise\obj\Debug\Stopwatch Exercise.exe
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\Stopwatch Exercise\Stopwatch Exercise\obj\Debug\Stopwatch Exercise.pdb
+E:\New folder\Stopwatch Exercise\Stopwatch Exercise\bin\Debug\Stopwatch Exercise.exe.config
+E:\New folder\Stopwatch Exercise\Stopwatch Exercise\obj\Debug\Stopwatch Exercise.exe
+E:\New folder\Stopwatch Exercise\Stopwatch Exercise\obj\Debug\Stopwatch Exercise.pdb

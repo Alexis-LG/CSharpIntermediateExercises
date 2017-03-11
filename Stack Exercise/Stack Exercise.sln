@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack Exercise", "Stack Exercise\Stack Exercise.csproj", "{80E661D5-F659-48FD-91B1-E9A07906A671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E661D5-F659-48FD-91B1-E9A07906A671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E661D5-F659-48FD-91B1-E9A07906A671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E661D5-F659-48FD-91B1-E9A07906A671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E661D5-F659-48FD-91B1-E9A07906A671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

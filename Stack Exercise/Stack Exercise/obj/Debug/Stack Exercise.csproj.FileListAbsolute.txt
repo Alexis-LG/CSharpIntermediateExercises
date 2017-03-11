@@ -1,0 +1,7 @@
+c:\users\alexis\documents\visual studio 2015\Projects\Stack Exercise\Stack Exercise\bin\Debug\Stack Exercise.exe.config
+E:\New folder\Stack Exercise\Stack Exercise\bin\Debug\Stack Exercise.exe.config
+E:\New folder\Stack Exercise\Stack Exercise\bin\Debug\Stack Exercise.exe
+E:\New folder\Stack Exercise\Stack Exercise\bin\Debug\Stack Exercise.pdb
+E:\New folder\Stack Exercise\Stack Exercise\obj\Debug\Stack Exercise.csprojResolveAssemblyReference.cache
+E:\New folder\Stack Exercise\Stack Exercise\obj\Debug\Stack Exercise.exe
+E:\New folder\Stack Exercise\Stack Exercise\obj\Debug\Stack Exercise.pdb
