@@ -1,0 +1,7 @@
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\obj\Debug\DbConnection Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\obj\Debug\DbConnection Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\bin\Debug\DbConnection Exercise.exe.config
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\bin\Debug\DbConnection Exercise.exe
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\bin\Debug\DbConnection Exercise.pdb
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\obj\Debug\DbConnection Exercise.exe
+C:\Users\Alex.Alex-PC\Source\Repos\DBConnection Exercise\DbConnection Exercise\DbConnection Exercise\obj\Debug\DbConnection Exercise.pdb
